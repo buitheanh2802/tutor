@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "thuốc sâu"
+    },
+    {
+      "id": 4,
+      "name": "thuốc diệt cỏ"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "name": "thuốc diệt cỏ"
+    }
+  ]
+}
